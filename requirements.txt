@@ -12,3 +12,4 @@ IPy
 pysnmp
 pyasn1
 pysqlcipher3
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
